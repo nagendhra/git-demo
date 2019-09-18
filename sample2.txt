@@ -1,1 +1,2 @@
 This is created via notepad sample2.txt command
+added more content
